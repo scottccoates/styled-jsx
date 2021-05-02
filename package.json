@@ -17,7 +17,8 @@
     "css.js",
     "css.d.ts",
     "webpack.js",
-    "license.md"
+    "license.md",
+    "src"
   ],
   "typings": "./index.d.ts",
   "scripts": {
